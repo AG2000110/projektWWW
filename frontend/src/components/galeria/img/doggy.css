@@ -1,0 +1,24 @@
+.doggy-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.doggy-img{
+    width: 50%;
+}
+
+.comment-section {
+    width: 50%; 
+}
+  
+.comment-section form {
+    width: 100%; 
+    margin-bottom: 30px;
+}
+
+.comment-frame{
+  border: 2px solid black;
+}

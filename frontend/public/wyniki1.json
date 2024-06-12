@@ -1,0 +1,50 @@
+{
+    "zawodnicy": [
+      {
+        "zajęte_miejsce": 1,
+        "numer_licencji": "12345",
+        "imię": "Jan",
+        "nazwisko": "Kowalski",
+        "rok_urodzenia": 1990,
+        "klub_sportowy": "Klub A",
+        "ilość_punktów": 100
+      },
+      {
+        "zajęte_miejsce": 2,
+        "numer_licencji": "54321",
+        "imię": "Adam",
+        "nazwisko": "Nowak",
+        "rok_urodzenia": 1995,
+        "klub_sportowy": "Klub B",
+        "ilość_punktów": 80
+      },
+      {
+        "zajęte_miejsce": 3,
+        "numer_licencji": "12543",
+        "imię": "Karol",
+        "nazwisko": "Gruszka",
+        "rok_urodzenia": 1992,
+        "klub_sportowy": "Klub A",
+        "ilość_punktów": 60
+      },
+      {
+        "zajęte_miejsce": 4,
+        "numer_licencji": "12765",
+        "imię": "Bartosz",
+        "nazwisko": "Krasnal",
+        "rok_urodzenia": 1988,
+        "klub_sportowy": "Klub D",
+        "ilość_punktów": 40
+      },
+      {
+        "zajęte_miejsce": 5,
+        "numer_licencji": "76432",
+        "imię": "Marek",
+        "nazwisko": "Kowalczyk",
+        "rok_urodzenia": 2001,
+        "klub_sportowy": "Klub C",
+        "ilość_punktów": 20
+      }
+    ]
+  }
+  
